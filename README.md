@@ -14,13 +14,13 @@ Saya seorang **Frontend Developer** yang bersemangat dalam membangun antarmuka w
 
 ### 🚀 Proyek Unggulan Saya:
 
-- **[Nama Aplikasi Film Anda]**: Sebuah aplikasi pencarian film yang dibangun dengan React dan Tailwind CSS, menggunakan data dari TMDB API. Fitur termasuk pencarian real-time, halaman detail, dan desain yang sepenuhnya responsif.
-  - **Live Demo:** [Link ke Vercel Anda]
-  - **Kode:** [Link ke repositori GitHub proyek film Anda]
+- **
+  - **Live Demo:** 
+  - **Kode:**
 
 ---
 
 ### 📫 Hubungi Saya:
 
-- **LinkedIn:** [Link ke profil LinkedIn Anda]
-- **Portfolio:** [Link ke website portofolio Anda (jika sudah ada)]
+- **LinkedIn:**
+- **Portfolio:** 
