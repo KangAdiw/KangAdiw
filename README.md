@@ -1,4 +1,4 @@
-### 👋 Halo, saya [Adi Mubarok]!
+### 👋 Halo, saya Adi Mubarok
 
 Saya seorang **Frontend Developer** yang bersemangat dalam membangun antarmuka web yang bersih, responsif, dan ramah pengguna. Saya baru saja menyelesaikan program belajar intensif dan sangat antusias untuk menerapkan keahlian saya dalam sebuah lingkungan kerja yang profesional.
 
